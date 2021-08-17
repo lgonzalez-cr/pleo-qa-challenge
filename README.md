@@ -13,7 +13,7 @@ formatMoney(2310000.159897); // '2 310 000.16'
 formatMoney(1600); // '1 600.00'
 ```
 
-## My approach
+## My approachs
 
 Time to complete: 8-10hours
 
