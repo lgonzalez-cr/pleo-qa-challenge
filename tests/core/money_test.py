@@ -45,6 +45,6 @@ def test_format_with_big_list_of_nasty_strings():
      if len(result) > 0:
           for res in results:
               print(f"Failed Value {res}")
-          print(f"Fallo el test {res}")
+          print(f"Falla el test {res}")
           assert False
      
