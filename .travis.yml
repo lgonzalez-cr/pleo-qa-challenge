@@ -1,0 +1,17 @@
+branches:
+  only:
+  - TravisIntegration
+  - main
+
+languaje: python
+python:
+  -3.9
+script:
+  -pytest
+
+notifications:
+  email:
+  recipients:
+    - luis.gonzalez.flores@ucreativa.com
+    on_success: always
+    on_failure: always
