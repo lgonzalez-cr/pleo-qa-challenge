@@ -8,10 +8,5 @@ notifications:
   email:
   recipients:
     - luis.gonzalez.flores@ucreativa.com
-    on_success: always
-    on_failure: always
-
-branches:
-  only:
-  - TravisIntegration
-  - main
+  on_success: always
+  on_failure: always
