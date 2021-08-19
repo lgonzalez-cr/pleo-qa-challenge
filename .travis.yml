@@ -1,6 +1,7 @@
 branches:
   only:
   - TravisIntegration
+  - main
 
 languaje: python
 python:
